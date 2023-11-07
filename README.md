@@ -4,7 +4,6 @@ Olá! Eu sou a Williane Nascimento.
 
 🌱 Estudando HTML, CSS, PHP, C# e MySql.
 - 📫 E-mail: williane010201@gmail.com 
-- 📱  Whatsapp: +55 (81) 99107-8560
 - 😄 Pronouns: ela/dela
 
 ##
