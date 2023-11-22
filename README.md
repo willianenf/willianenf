@@ -2,7 +2,7 @@ Olá! Eu sou a Williane Nascimento.
 
 ##
 
-🌱 Estudando HTML, CSS, PHP, C# e MySql.
+-🌱 Conhecimento em HTML, CSS, PHP e PDO.
 - 📫 E-mail: williane010201@gmail.com 
 - 😄 Pronouns: ela/dela
 
